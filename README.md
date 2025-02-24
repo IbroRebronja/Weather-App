@@ -8,7 +8,7 @@ A simple weather app that fetches weather data using the OpenWeatherMap API.
 - Secure API key handling with Vercel
 
 ## Live Demo
-🔗 [View Live Project]([https://your-vercel-url.vercel.app/](https://weather-app-two-mauve-68.vercel.app/))
+🔗 [View Live Project](https://weather-app-two-mauve-68.vercel.app/)
 
 ## Tech Stack
 - HTML, CSS, JavaScript
