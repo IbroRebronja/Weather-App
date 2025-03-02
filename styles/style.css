@@ -96,26 +96,9 @@ html, body {
     flex-direction: column;
 }
 
-/* Center the container */
-.container {
-    width: 320px;
-    margin: auto;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-/* Footer at bottom without background */
 footer {
-    text-align: center;
     font-size: 14px;
     color: rgba(179, 197, 212, 0.7);
     position: absolute;
     bottom: 10px;
-    left: 50%;
-    transform: translateX(-50%);
 }
